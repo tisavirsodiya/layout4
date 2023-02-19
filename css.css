@@ -1,0 +1,40 @@
+.header_first
+{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+.header_second
+{
+    background-color:yellow;
+    color:black;
+    padding-top: 10px;
+    padding-bottom:16px;
+    padding-left:130px;
+}
+.header_threrd
+{
+    background-color:wheat;
+    color:black;
+    padding-top:35px;
+    padding-bottom:103px;
+    padding-left:0px;
+}
+.main_img
+{
+    background-image:url('./main_img.jpg');
+    background-repeat: no-repeat;
+    width:100%;
+    height:auto;
+    overflow:hidden;
+    background-size:100% 100%;
+}
+.business
+{
+    font-size:150px;
+    color:white;
+    margin:276px;
+    margin-inline:70px;
+}
