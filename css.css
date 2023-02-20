@@ -129,3 +129,63 @@
 {
     color:pink; 
 }
+.section_footer{
+    height:50;
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    color: whitesmoke;
+    font-size: 20px;
+}
+.last_line
+{
+    width:30px;
+    height:1px;
+    background-color:white; 
+    margin-top: 10px;
+    }
+ .top1
+ {
+    width:32px;
+    height:5px;
+    background-color:white; 
+    margin-top: 0px;
+
+ }
+ .top2
+ {
+    width:23px;
+    height:5px;
+    background-color:white; 
+    margin-top: 10px;
+
+ }
+ .top3
+ {
+    width:8px;
+    height:5px;
+    background-color:white;
+    margin-top: 12px;
+ 
+ }
+ .top4
+ {
+    width:8px;
+    height:5px;
+    background-color:white; 
+    margin-top:12px;
+    margin-inline: 8px; 
+    border-radius: 50% 50%;
+ }
+ .creatch
+{
+    text-align: center;
+} */
+.section_footer{
+    height:50;
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    color: whitesmoke;
+    font-size: 20px;
+}
