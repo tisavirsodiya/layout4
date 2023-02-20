@@ -8,7 +8,7 @@
 }
 .header_second
 {
-    background-color:yellow;
+    background-color:white;
     color:black;
     padding-top: 10px;
     padding-bottom:16px;
@@ -16,7 +16,7 @@
 }
 .header_threrd
 {
-    background-color:wheat;
+    background-color:rgb(220, 220, 220,0.8);
     color:black;
     padding-top:35px;
     padding-bottom:103px;
@@ -27,7 +27,7 @@
     background-image:url('./main_img.jpg');
     background-repeat: no-repeat;
     width:100%;
-    height:auto; 
+    height:450px; 
     overflow:hidden;
     background-size:100% 100%;
 }
@@ -36,14 +36,14 @@
     font-size:150px;
     color:white;
     margin:276px;
-    margin-inline:70px;
+    margin-inline:60px;
 }
 .first
 {
-    background-color:rgb(0,0,255,0.8);
+    background-color:rgb(62, 126, 151,0.8);
     position:relative;
     margin-top:-777px;
-    padding-top:100px;
+    padding-top:120px;
     padding-bottom:100px;
     padding-left:100px;
 }
@@ -69,10 +69,47 @@
 }
 .dot
 {
-    color:red;
+    color:rgb(216, 57, 137);
+
 }
 .second
 {
     margin-left:855px;
     margin-top: -500px;
+}
+.third
+{
+    margin-left:855px;
+}
+.about
+{
+    background-color:white;
+    text-align: left;
+    padding-left:75px;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+.about_text
+{
+    background-color:white;
+    text-align: center;
+    padding-top:30px;
+    padding-bottom:20px;
+}
+.boarder_left
+{
+    
+    border-left: rgb(226, 125, 142) solid;
+    height:85px;
+    width:60px;
+    margin-left:34px;
+    margin-top:-130px;
+}
+.fast
+{
+    color:black;
+}
+.quick
+{
+    color:pink;
 }
